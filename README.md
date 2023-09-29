@@ -30,11 +30,12 @@ I'm learning at the moment **Linux, ReactJS, CSharp and PHP**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="115" alt="JavaScript">        
   <img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="115" alt="Laravel">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="115" alt="phyton">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="115" alt="mongodb" >         
+          
 </table>
     
 <table>
   <a href="https://github.com/geovannap">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="115" alt="mongodb" > 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="120" alt="postgreesql" >
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="120" alt="mysql">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="120" alt="cloud">
