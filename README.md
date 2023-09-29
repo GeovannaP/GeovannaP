@@ -23,14 +23,14 @@ I'm learning at the moment **Linux, ReactJS, CSharp and PHP**
 
  <table>
   <a href="https://github.com/geovannap">
-  <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
+  <img src="https://img.icons8.com/color/2x/vue-js.png" width="115" alt="Vue.js">
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="115" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css3.png" width="115" alt="CSS3">
+  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="115" alt="Bootstrap">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="115" alt="JavaScript">        
-  <img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="120" alt="Laravel">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120" alt="phyton">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="120" alt="mongodb" >         
+  <img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="115" alt="Laravel">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="115" alt="phyton">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="115" alt="mongodb" >         
 </table>
     
 <table>
